@@ -3,14 +3,13 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0d1117,100:1f6feb&section=header&text=Jose%20Miguel%20Romera&fontColor=ffffff&fontSize=44&fontAlignY=38&desc=Backend%20Developer&descAlignY=58&descSize=18" alt="Jose Miguel Romera - Backend Developer" width="100%" />
 
 <a href="https://github.com/jmromera">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3200&pause=1200&color=58A6FF&center=true&vCenter=true&width=620&lines=Node.js+%C2%B7+TypeScript+%C2%B7+APIs+a+escala;Backend+for+native+apps+%40+BetVictor;Albacete%2C+Espa%C3%B1a+%F0%9F%87%AA%F0%9F%87%B8" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3200&pause=1200&color=58A6FF&center=true&vCenter=true&width=620&lines=Node.js+%C2%B7+TypeScript+%C2%B7+APIs+a+escala;Backend+para+apps+nativas;Albacete%2C+Espa%C3%B1a+%F0%9F%87%AA%F0%9F%87%B8" alt="Typing animation" />
 </a>
 
 <br/>
 
 <img src="https://img.shields.io/badge/Node.js-backend-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
 <img src="https://img.shields.io/badge/TypeScript-strict-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-<img src="https://img.shields.io/badge/BetVictor-Backend%20Engineer-F5A623?style=flat-square" alt="BetVictor" />
 <img src="https://img.shields.io/badge/Albacete-Spain-C60B1E?style=flat-square" alt="Albacete, Spain" />
 <img src="https://komarev.com/ghpvc/?username=jmromera&style=flat-square&color=1f6feb&label=profile+views" alt="Profile views" />
 
@@ -26,22 +25,22 @@
 
 🇪🇸 **Español**
 
-Soy **Jose Miguel Romera**, desarrollador backend con **Node.js**, y vivo en Albacete, España.
+Diseño y desarrollo **APIs y servicios backend con Node.js y TypeScript**.
 
-Trabajo en **BetVictor**, donde construyo el backend que da servicio a las **aplicaciones nativas**: APIs fiables, rápidas y pensadas para mantenerse en el tiempo.
+Trabajo en una compañía internacional de **iGaming 100% online**, en el backend que sirve a **aplicaciones nativas**: servicios fiables, rápidos y pensados para evolucionar sin dolor.
 
-Me importa el código limpio, los sistemas que se pueden operar y los detalles que nadie ve pero que se notan.
+Me muevo bien entre el diseño de APIs, la calidad del código y la operación en producción. Prefiero soluciones simples, medibles y fáciles de mantener.
 
 </td>
 <td width="50%" valign="top">
 
 🇬🇧 **English**
 
-I'm **Jose Miguel Romera**, a backend developer working with **Node.js**, based in Albacete, Spain.
+I design and build **backend APIs and services with Node.js and TypeScript**.
 
-I work at **BetVictor**, building the backend behind the **native apps**: reliable, fast APIs designed to last.
+I work at an international, **100% online iGaming** company, on the backend behind **native apps**: reliable, fast services designed to evolve without pain.
 
-I care about clean code, systems that are easy to operate, and the details nobody sees but everybody feels.
+I work across API design, code quality and production operations. I favour solutions that are simple, measurable and easy to maintain.
 
 </td>
 </tr>
