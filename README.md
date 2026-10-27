@@ -1,38 +1,92 @@
-<h2 data-importer="text" align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<div align="center">
 
-###
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0d1117,100:1f6feb&section=header&text=Jose%20Miguel%20Romera&fontColor=ffffff&fontSize=44&fontAlignY=38&desc=Backend%20Developer&descAlignY=58&descSize=18" alt="Jose Miguel Romera - Backend Developer" width="100%" />
 
-<img data-importer="image" align="right" height="150" src="https://lh3.googleusercontent.com/a/ACg8ocLwwyvZvC97jud67d_F0SOriV0FpIo42VTnYZ_yBcAPD73dOSlZ0Q=s120-c"  />
+<a href="https://github.com/jmromera">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3200&pause=1200&color=58A6FF&center=true&vCenter=true&width=620&lines=Node.js+%C2%B7+TypeScript+%C2%B7+APIs+a+escala;Backend+for+native+apps+%40+BetVictor;Albacete%2C+Espa%C3%B1a+%F0%9F%87%AA%F0%9F%87%B8" alt="Typing animation" />
+</a>
 
-###
+<br/>
 
-<div data-importer="techs" align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
+<img src="https://img.shields.io/badge/Node.js-backend-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+<img src="https://img.shields.io/badge/TypeScript-strict-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/BetVictor-Backend%20Engineer-F5A623?style=flat-square" alt="BetVictor" />
+<img src="https://img.shields.io/badge/Albacete-Spain-C60B1E?style=flat-square" alt="Albacete, Spain" />
+<img src="https://komarev.com/ghpvc/?username=jmromera&style=flat-square&color=1f6feb&label=profile+views" alt="Profile views" />
+
 </div>
 
-###
+<br/>
 
-<div data-importer="socials" align="left">
-  <a href="jmromera2@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+## 👋 Sobre mí &nbsp;/&nbsp; About me
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+🇪🇸 **Español**
+
+Soy **Jose Miguel Romera**, desarrollador backend con **Node.js**, y vivo en Albacete, España.
+
+Trabajo en **BetVictor**, donde construyo el backend que da servicio a las **aplicaciones nativas**: APIs fiables, rápidas y pensadas para mantenerse en el tiempo.
+
+Me importa el código limpio, los sistemas que se pueden operar y los detalles que nadie ve pero que se notan.
+
+</td>
+<td width="50%" valign="top">
+
+🇬🇧 **English**
+
+I'm **Jose Miguel Romera**, a backend developer working with **Node.js**, based in Albacete, Spain.
+
+I work at **BetVictor**, building the backend behind the **native apps**: reliable, fast APIs designed to last.
+
+I care about clean code, systems that are easy to operate, and the details nobody sees but everybody feels.
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 🛠️ Stack
+
+<div align="center">
+<table>
+<tr>
+<td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="42" alt="Node.js" /><br/><sub><b>Node.js</b></sub></td>
+<td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="42" alt="TypeScript" /><br/><sub><b>TypeScript</b></sub></td>
+<td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="42" alt="JavaScript" /><br/><sub><b>JavaScript</b></sub></td>
+<td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="42" alt="Git" /><br/><sub><b>Git</b></sub></td>
+<td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="42" alt="GitLab" /><br/><sub><b>GitLab</b></sub></td>
+</tr>
+</table>
+</div>
+
+<br/>
+
+## 📊 GitHub
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=jmromera&show_icons=true&theme=github_dark&hide_border=false&border_radius=10&count_private=true" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmromera&layout=compact&theme=github_dark&border_radius=10&langs_count=6" alt="Top languages" />
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=jmromera&theme=github-dark-blue&border_radius=10&hide_border=false" alt="GitHub streak" />
+</div>
+
+<br/>
+
+## 📫 Contacto &nbsp;/&nbsp; Contact
+
+<div align="center">
+  <a href="mailto:jmromera2@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" alt="Gmail" />
   </a>
   <a href="https://www.linkedin.com/in/jose-m-romera/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="LinkedIn" />
   </a>
 </div>
 
-###
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:1f6feb,100:0d1117&section=footer" width="100%" alt="" />
