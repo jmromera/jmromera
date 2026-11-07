@@ -68,7 +68,7 @@ I work across API design, code quality and production operations. I favour solut
 
 ### 🧸 [Hello Tom](https://github.com/jmromera/hello-tom) &nbsp;<sub>🔒 privado / private</sub>
 
-<p><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white" alt="Fastify" /> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" /> <img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white" alt="WebSockets" /> <img src="https://img.shields.io/badge/Claude_API-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude API" /> <img src="https://img.shields.io/badge/Deepgram-STT-13EF93?style=flat-square&logoColor=white" alt="Deepgram speech-to-text" /> <img src="https://img.shields.io/badge/ElevenLabs-TTS-000000?style=flat-square&logo=elevenlabs&logoColor=white" alt="ElevenLabs text-to-speech" /></p>
+<p><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white" alt="Fastify" /> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" /> <img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white" alt="WebSockets" /> <img src="https://img.shields.io/badge/Claude_API-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude API" /> <img src="https://img.shields.io/badge/Deepgram-STT-13EF93?style=flat-square&logoColor=white" alt="Deepgram speech-to-text" /> <img src="https://img.shields.io/badge/ElevenLabs-TTS-000000?style=flat-square&logo=elevenlabs&logoColor=white" alt="ElevenLabs text-to-speech" /></p>
 
 🤖 **Un profesor de inglés hecho con IA para niños de 3 a 6 años.**
 
@@ -76,21 +76,21 @@ Tom es un **personaje generado por IA**: su aspecto, su personalidad y su voz sa
 
 Por dentro, Tom se conecta a varios servicios de **IA de voz** que trabajan en cadena y en tiempo real:
 
-- 🎙️ **Oído:** la voz del niño viaja por WebSockets al servidor y **Deepgram** la convierte en texto con reconocimiento de voz por IA.
+- 🎙️ **Oído:** la voz del niño viaja por WebSockets a un servidor **Node.js** (Fastify) y **Deepgram** la convierte en texto con reconocimiento de voz por IA.
 - 🧠 **Cerebro:** un modelo de lenguaje (**Claude**, de Anthropic) entiende lo que ha dicho el niño y decide la respuesta. Se adapta a su edad, a su nivel y al idioma que hablan en casa.
 - 🗣️ **Voz:** **ElevenLabs** convierte esa respuesta en la voz sintética de Tom, que suena natural.
 
 Los padres configuran el perfil del niño con un asistente al que pueden contestar hablando, porque también usa la IA, y fijan un límite de uso diario.
 
-> 🇬🇧 *An AI-generated character that teaches English to kids aged 3–6. Tom lives on the TV and talks back in real time through a chain of AI voice services: Deepgram (speech-to-text), Claude (the conversational brain) and ElevenLabs (Tom's synthetic voice).*
+> 🇬🇧 *An AI-generated character that teaches English to kids aged 3–6. Tom lives on the TV and talks back in real time through a Node.js backend that chains AI voice services: Deepgram (speech-to-text), Claude (the conversational brain) and ElevenLabs (Tom's synthetic voice).*
 
 ### 🍽️ [MenuMulticanal](https://github.com/jmromera/menumulticanal) &nbsp;<sub>🔒 privado / private</sub>
 
-<p><img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS" /> <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" /> <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma" /> <img src="https://img.shields.io/badge/Redis_·_BullMQ-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis + BullMQ" /> <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" alt="Playwright" /></p>
+<p><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" /> <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS" /> <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" /> <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma" /> <img src="https://img.shields.io/badge/Redis_·_BullMQ-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis + BullMQ" /> <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" alt="Playwright" /></p>
 
-**Publica una vez, aparece en todas partes.** SaaS para que un bar o restaurante escriba su menú del día una sola vez y lo tenga a la vez en su web pública, en un QR para las mesas, en un PDF para imprimir y en imágenes listas para Instagram, Facebook o WhatsApp. Monorepo con API en NestJS, web en Next.js y un worker que genera las imágenes con Chromium a partir de plantillas. Hecho con TDD, PRs pequeñas, CI y tests visuales que comparan cada imagen con su referencia aprobada.
+**Publica una vez, aparece en todas partes.** SaaS para que un bar o restaurante escriba su menú del día una sola vez y lo tenga a la vez en su web pública, en un QR para las mesas, en un PDF para imprimir y en imágenes listas para Instagram, Facebook o WhatsApp. Monorepo en TypeScript con API en **Node.js** (NestJS), web en Next.js y un worker que genera las imágenes con Chromium a partir de plantillas. Hecho con TDD, PRs pequeñas, CI y tests visuales que comparan cada imagen con su referencia aprobada.
 
-> 🇬🇧 *A SaaS that lets restaurants write their daily menu once and publish it everywhere: public web page, table QR code, printable PDF and social-media images. NestJS API, Next.js front end and a background rendering worker.*
+> 🇬🇧 *A SaaS that lets restaurants write their daily menu once and publish it everywhere: public web page, table QR code, printable PDF and social-media images. Node.js + NestJS API, Next.js front end and a background rendering worker.*
 
 ### 🎭 [Plan Cerca](https://github.com/jmromera/CulturalEventsAppDesign) &nbsp;<sub>· [plancerca.com](https://plancerca.com)</sub>
 
