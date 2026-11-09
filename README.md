@@ -66,6 +66,14 @@ I work across API design, code quality and production operations. I favour solut
 
 ## 🚀 Proyectos personales &nbsp;/&nbsp; Side projects
 
+### 🔀 [Would You Merge This PR?](https://github.com/jmromera/would-you-merge-this-pr) &nbsp;<sub>· [▶️ jugar / play](https://jmromera.github.io/would-you-merge-this-pr/)</sub>
+
+<p><img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" /> <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" /> <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white" alt="Framer Motion" /> <img src="https://img.shields.io/badge/GitHub_Pages-222222?style=flat-square&logo=githubpages&logoColor=white" alt="GitHub Pages" /></p>
+
+**¿Harías merge de esta PR un viernes a las 17:58?** Un juego interactivo que simula una semana de trabajo de un backend engineer: PRs "pequeñas" de +742 líneas, incidentes en producción, código legacy en CoffeeScript y deadlines imposibles. Cada decisión puntúa en silencio en criterio técnico, gestión de riesgos, trabajo en equipo y supervivencia en producción, y al final ves qué tipo de ingeniero eres.
+
+> 🇬🇧 *An interactive game that simulates a backend engineer's work week. Every decision quietly scores your technical judgment, risk management, collaboration and production survival. [Play it here](https://jmromera.github.io/would-you-merge-this-pr/).*
+
 ### 🧸 [Hello Tom](https://github.com/jmromera/hello-tom) &nbsp;<sub>🔒 privado / private</sub>
 
 <p><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white" alt="Fastify" /> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" /> <img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white" alt="WebSockets" /> <img src="https://img.shields.io/badge/Claude_API-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude API" /> <img src="https://img.shields.io/badge/Deepgram-STT-13EF93?style=flat-square&logoColor=white" alt="Deepgram speech-to-text" /> <img src="https://img.shields.io/badge/ElevenLabs-TTS-000000?style=flat-square&logo=elevenlabs&logoColor=white" alt="ElevenLabs text-to-speech" /></p>
