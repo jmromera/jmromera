@@ -94,7 +94,7 @@ Es la demo funcional de un trabajo de **Programación II e Ingeniería del Softw
 
 🤖 **Un profesor de inglés hecho con IA para niños de 3 a 6 años.**
 
-Tom es un **personaje generado por IA**: su aspecto, su personalidad y su voz salen de modelos de inteligencia artificial. Aparece en la tele y el niño habla con él usando el móvil como micrófono. No hay diálogos grabados: cada respuesta se genera en el momento.
+Tom es un **personaje generado por IA**: su aspecto, su personalidad y su voz salen de modelos de inteligencia artificial. Aparece en pantalla y el niño habla con él en voz alta. No hay diálogos grabados: cada respuesta se genera en el momento.
 
 Por dentro, Tom se conecta a varios servicios de **IA de voz** que trabajan en cadena y en tiempo real:
 
@@ -104,7 +104,7 @@ Por dentro, Tom se conecta a varios servicios de **IA de voz** que trabajan en c
 
 Los padres configuran el perfil del niño con un asistente al que pueden contestar hablando, porque también usa la IA, y fijan un límite de uso diario.
 
-> 🇬🇧 *An AI-generated character that teaches English to kids aged 3–6. Tom lives on the TV and talks back in real time through a Node.js backend that chains AI voice services: Deepgram (speech-to-text), Claude (the conversational brain) and ElevenLabs (Tom's synthetic voice).*
+> 🇬🇧 *An AI-generated character that teaches English to kids aged 3–6. Kids talk to Tom out loud and he answers in real time through a Node.js backend that chains AI voice services: Deepgram (speech-to-text), Claude (the conversational brain) and ElevenLabs (Tom's synthetic voice).*
 
 ### 🍽️ [MenuMulticanal](https://github.com/jmromera/menumulticanal) &nbsp;<sub>🔒 privado / private</sub>
 
@@ -118,9 +118,9 @@ Los padres configuran el perfil del niño con un asistente al que pueden contest
 
 <p><img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" /> <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" /> <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" /> <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" /></p>
 
-Web para descubrir conciertos, teatro, exposiciones y eventos deportivos en Madrid y Barcelona: buscar eventos, artistas y recintos, ver los detalles y guardar favoritos. Nació como trabajo de la asignatura de **Interacción Persona-Ordenador**, así que el foco está en la usabilidad, la accesibilidad y el diseño responsive. Está publicada y se puede probar en [plancerca.com](https://plancerca.com).
+Web para descubrir conciertos, teatro, exposiciones y eventos deportivos en Madrid, Barcelona, Valencia, Sevilla, Bilbao y Albacete: buscar eventos, artistas y recintos, ver los detalles y guardar favoritos. Nació como trabajo de la asignatura de **Interacción Persona-Ordenador**, así que el foco está en la usabilidad, la accesibilidad y el diseño responsive. Está publicada y se puede probar en [plancerca.com](https://plancerca.com).
 
-> 🇬🇧 *A web app to discover cultural, sports and leisure events in Madrid and Barcelona. Built for a Human-Computer Interaction course, with a focus on usability and accessibility. Live at [plancerca.com](https://plancerca.com).*
+> 🇬🇧 *A web app to discover cultural, sports and leisure events in Madrid, Barcelona, Valencia, Seville, Bilbao and Albacete. Built for a Human-Computer Interaction course, with a focus on usability and accessibility. Live at [plancerca.com](https://plancerca.com).*
 
 <br/>
 
